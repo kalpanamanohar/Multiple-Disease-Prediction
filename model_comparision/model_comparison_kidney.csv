@@ -1,0 +1,7 @@
+,LogisticRegression,DecisionTree,RandomForest
+cv_accuracy,0.995,0.9925,0.995
+accuracy,0.975,0.9625,1
+precision,1,1,1
+recall,0.96,0.94,1
+f1,0.979591836734694,0.969072164948454,1
+roc_auc,1,0.97,1
